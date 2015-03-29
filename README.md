@@ -4,6 +4,10 @@ These are various scripts I use for very specific purposes. However, they should
 
 Feel free to use them for your Excel Sheets
 
+## YNAB-Import
+
+Converts the CSV-MT940 format used by german banks into the format required by YNAB. 
+
 ## Import Holidays
 
 Imports jewish holidays from Hebcal and matches them to two CSVs containing titles and IDs of holidays and parashot. The output is a csv file with date, name, prequel (e.g. "Erev"), sequel (e.g. "3rd Candle"), holiday\_id and parasha\_id.
